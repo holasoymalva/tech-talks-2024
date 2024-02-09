@@ -1,1 +1,1 @@
-# tech-talks-2024
+# Tech Talks: 2024
